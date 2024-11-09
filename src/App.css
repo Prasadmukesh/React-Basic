@@ -1,9 +1,11 @@
 .App {
   text-align: center;
+  background-color: chocolate;
+  color: antiquewhite;
 }
 
-.App-logo {
-  height: 40vmin;
+/* .App-logo {
+  height: 10vmin;
   pointer-events: none;
 }
 
@@ -15,7 +17,7 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+} */
+h1 {
+  color: red;
+}
+body {
+  background-color: cornsilk;
+}
+ul li {
+  list-style-type: decimal-leading-zero;
 }

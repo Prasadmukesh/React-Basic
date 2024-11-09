@@ -1,0 +1,38 @@
+[
+	{
+		"name" : "Yash",
+		"father_name" : "Amit Goyal",
+		"email" : "abhisheknisun@gmail.com",
+		"mobile" : "9911225526",
+		"school" : "sssss",
+		"pws" : "1234567",
+		"stream" : "Commerce",
+		"address" : "167",
+		"area" : "kohat enclave",
+		"pincode" : "110054"
+	},
+	{
+		"name" : "harsh",
+		"father_name" : "Harsh",
+		"email" : "harsh123@gmail.com",
+		"mobile" : "9899887711",
+		"school" : "dsssb",
+		"pws" : "654321",
+		"stream" : "Commerce",
+		"address" : "373",
+		"area" : "kohat enclave",
+		"pincode" : "110034"
+	},
+	{
+		"name" : "rahul",
+		"father_name" : "mr. raj",
+		"email" : "kumarrahul@gmail.com",
+		"mobile" : "9876645634",
+		"school" : "dsssb",
+		"pws" : "123456",
+		"stream" : "Arts",
+		"address" : "124",
+		"area" : "delhi",
+		"pincode" : "110054"
+	}
+]
